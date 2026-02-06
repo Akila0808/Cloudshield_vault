@@ -1,0 +1,5 @@
+{
+  "name": "CloudShield Vault",
+  "description": "A secure cloud storage application with a multi-step authentication flow, encrypted file storage, and a professional dark blue user interface. Users can sign up, log in, pass an MFA check, and manage their encrypted files in a personal vault.",
+  "requestFramePermissions": []
+}
